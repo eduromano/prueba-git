@@ -5,13 +5,13 @@
 
 .container {
     display: flex ;
-    background: yellow ;
+    background: rgb(15, 15, 0) ;
     height: 200px ;
     width: 500px ;
 }
 
 .box_1 {
-    background: red ;
+    background: rgb(81, 255, 0) ;
     flex: 1 ;
 }
 
