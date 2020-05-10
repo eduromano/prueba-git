@@ -8,6 +8,7 @@
     background: rgb(15, 15, 0) ;
     height: 200px ;
     width: 500px ;
+    flex-direction: column ;
 }
 
 .box_1 {
