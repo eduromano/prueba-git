@@ -1,0 +1,26 @@
+* {
+    margin: 0px ;
+    padding: 0px ;
+}
+
+.container {
+    display: flex ;
+    background: yellow ;
+    height: 200px ;
+    width: 500px ;
+}
+
+.box_1 {
+    background: red ;
+    flex: 1 ;
+}
+
+.box_2 {
+    background: rosybrown ;
+    flex: 1 ;
+}
+
+.box_3 {
+    background: royalblue ;
+    flex: 1 ;
+}
