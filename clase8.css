@@ -21,6 +21,11 @@
 }
 
 .box_3 {
-    background: royalblue ;
+    background: royalblue;
     flex: 1 ;
+}
+
+.box_4 {
+    background: red;
+    flex: 1;
 }
